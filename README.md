@@ -31,7 +31,7 @@ How to Run Locally
 git clone https://github.com/<your-username>/sentiment-analysis-tool.git
 cd sentiment-analysis-tool
 
-Create a virtual environment
+2.Create a virtual environment
 python -m venv venv
 #### Activate (Windows)
 venv\Scripts\activate
@@ -59,4 +59,4 @@ Matplotlib → Charts & graphs
 
 WordCloud → Trending keyword visualization
 
-### This project showcases my ability to design, develop, and deploy interactive data applications that provide real-time insights into social media sentiment
+##### This project showcases my ability to design, develop, and deploy interactive data applications that provide real-time insights into social media sentiment
