@@ -7,4 +7,4 @@ It allows you to analyze social media posts (e.g., Twitter, Facebook, Instagram,
 
 The app uses Natural Language Processing (NLP) techniques to preprocess text data, extract sentiment scores, and visualize sentiment trends over time.
 
-Live Demo: Click here to try the app
+Live Demo: Click here to view (**https://social-media-sentiment-analysis-kuueyuaazdyjjy2s3bvmpz.streamlit.app/**)
